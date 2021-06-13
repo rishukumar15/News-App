@@ -1,0 +1,19 @@
+.Content__wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-emphasis-color: red;
+    margin: 15px;
+    background-color: darkcyan;
+    background-size: cover; 
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.container-fluid{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
